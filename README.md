@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @akssayy
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning c++, JAVA, Reactjs
 - 📫 How to reach me https://www.linkedin.com/in/akshay-waghral-a2911b228/
 - ⚡ Learning everyday
