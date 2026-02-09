@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learningg  <br>Python Full stack.<br><br>👯 I’m looking to collaborate on  <br>Python, SQL, data analysis projects, and beginner open-source contributions.<br><br>🤝 I’m looking for help with  <br>Improving problem-solving skills and understanding real-world data workflows.<br><br>🌱 I’m currently learning  <br>Python, SQL, Pandas, NumPy, Git/GitHub, Linux, and DevOps basics.<br><br>💬 Ask me about  <br>Python, beginner data analysis, and how to start coding from scratch.<br><br>⚡ Fun fact  <br>I believe consistency beats talent, and I code every day.<br>
+🔭 I’m currently Learningg  <br>Python Full stack.<br><br>👯 I’m looking to collaborate on  <br>Python, SQL, data analysis projects, and beginner open-source contributions.<br><br>🤝 I’m looking for help with  <br>Improving problem-solving skills and understanding real-world data workflows.<br><br>🌱 I’m currently learning  <br>Python, SQL, Pandas, NumPy, Git/GitHub, Linux, and DevOps basics.<br><br>💬 Ask me about  <br>Python, beginner data analysis, and how to start coding from scratch.<br><br>⚡ Fun fact  <br>there is no fun fact.<br>
 
 
 ## 🌐 Socials:
